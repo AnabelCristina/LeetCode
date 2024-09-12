@@ -1,7 +1,6 @@
 ## brute force
 class SolutionOne:
     def firstUniqChar(self, s: str) -> int:
-        length = len(s)
         repeated = []
 
         for index, string_character in enumerate(s):
