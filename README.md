@@ -1,3 +1,8 @@
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems, organized by problem number and difficulty.  
+The goal is to improve my skills in **algorithms and data structures**, as well as to prepare for **technical interviews**.
+
 ### Summary
 
 A summary of the contents of that repository.
